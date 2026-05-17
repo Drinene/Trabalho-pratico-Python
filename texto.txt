@@ -1,0 +1,4 @@
+Estou aprendendo Python.
+Manipulação de arquivos é importante.
+VS Code facilita o desenvolvimento.
+Esta atividade foi criada com append().
